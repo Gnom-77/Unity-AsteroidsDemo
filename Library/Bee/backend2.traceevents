@@ -1,0 +1,283 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1717765016956661, "dur":31380, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717765016988056, "dur":132, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717765016988234, "dur":393, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717765016988794, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/SpaceShip_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1717765016989085, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/SpaceShip_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1717765016988682, "dur":3992, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717765016992677, "dur":276527, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717765017269205, "dur":72, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717765017269294, "dur":18552, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717765017288027, "dur":2928, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1717765016989063, "dur":3620, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1717765016992686, "dur":6765, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1717765017001496, "dur":463, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1717765017001981, "dur":114, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1717765017002330, "dur":204, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\gg\\SpaceShip\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717765017002536, "dur":276, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\gg\\SpaceShip\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717765017002815, "dur":148, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\gg\\SpaceShip\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717765017002966, "dur":914, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\gg\\SpaceShip\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717765017003882, "dur":581, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\gg\\SpaceShip\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717765017004523, "dur":198, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player5429167a-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1717765017001980, "dur":2900, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1717765017005347, "dur":72, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1717765017005666, "dur":247179, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1717765017260912, "dur":147, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1717765017260910, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/SpaceShip_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1717765017261086, "dur":7882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1717765016989118, "dur":3577, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1717765016992698, "dur":1109, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1717765016993807, "dur":5660, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1717765016999468, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1717765017000959, "dur":3028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1717765017004078, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1717765017004158, "dur":1438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1717765017005680, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.31f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1717765017005678, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1717765017005772, "dur":1053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1717765017006898, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1717765017006993, "dur":1386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1717765017008909, "dur":6411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717765017015470, "dur":2140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717765017017753, "dur":1650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717765017019493, "dur":2278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717765017021871, "dur":2328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717765017026327, "dur":73, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1717765017024326, "dur":2085, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717765017026446, "dur":3245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717765017029737, "dur":1730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717765017031573, "dur":1322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717765017033129, "dur":2410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717765017035649, "dur":2439, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717765017038188, "dur":2172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717765017040438, "dur":1448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717765017042015, "dur":1865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717765017044048, "dur":3329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717765017047571, "dur":1543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717765017050957, "dur":122, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1717765017049222, "dur":1869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717765017053608, "dur":318, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1717765017051256, "dur":2686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717765017054134, "dur":825, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1717765017054970, "dur":2759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1717765017057772, "dur":1833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/level0" }}
+,{ "pid":12345, "tid":2, "ts":1717765017059631, "dur":209372, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1717765016989101, "dur":3588, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1717765016992692, "dur":1196, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1717765016993889, "dur":5581, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1717765016999470, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1717765017000538, "dur":3725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1717765017004338, "dur":76, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.31f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1717765017004337, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1717765017004871, "dur":1308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1717765017006246, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1717765017008234, "dur":104, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1717765017006768, "dur":1581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1717765017008426, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/SpaceShip_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1717765017009582, "dur":10807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1717765017020502, "dur":1918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717765017022504, "dur":1774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717765017024333, "dur":2027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717765017026408, "dur":2727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717765017029184, "dur":2457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717765017033239, "dur":166, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1717765017031674, "dur":1757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717765017033540, "dur":1514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717765017035197, "dur":1597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717765017036889, "dur":1690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717765017038688, "dur":2168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717765017040953, "dur":2006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717765017043072, "dur":1335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717765017044495, "dur":1697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717765017046271, "dur":2079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717765017048466, "dur":1879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717765017050445, "dur":2367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717765017059436, "dur":142, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1717765017052949, "dur":6823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1717765017059930, "dur":209088, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1717765016989159, "dur":3543, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1717765016992705, "dur":1060, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1717765016993766, "dur":5694, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1717765016999503, "dur":81, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.31f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765016999826, "dur":93, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\gg\\SpaceShip\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765016999920, "dur":71, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\gg\\SpaceShip\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765016999992, "dur":75, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\gg\\SpaceShip\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017000068, "dur":328, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\gg\\SpaceShip\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017000398, "dur":556, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\gg\\SpaceShip\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017000957, "dur":164, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\gg\\SpaceShip\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017001123, "dur":135, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\gg\\SpaceShip\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017001260, "dur":439, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\gg\\SpaceShip\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017001702, "dur":115, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\gg\\SpaceShip\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017001820, "dur":129, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\gg\\SpaceShip\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017001950, "dur":302, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\gg\\SpaceShip\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017002253, "dur":198, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\gg\\SpaceShip\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017002453, "dur":278, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\gg\\SpaceShip\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017002732, "dur":128, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\gg\\SpaceShip\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017002861, "dur":71, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\gg\\SpaceShip\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017002933, "dur":679, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\gg\\SpaceShip\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017003617, "dur":474, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\gg\\SpaceShip\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017004093, "dur":118, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\gg\\SpaceShip\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765016999465, "dur":4884, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":4, "ts":1717765017004350, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1717765017005093, "dur":1058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017006155, "dur":71, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.31f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1717765017006153, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1717765017006842, "dur":3944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1717765017010959, "dur":4668, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017015733, "dur":3841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017019656, "dur":2688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017022428, "dur":1788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017024253, "dur":2390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017026706, "dur":2897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017029678, "dur":2260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017032375, "dur":3058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017035645, "dur":2147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017037989, "dur":2079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017040168, "dur":1578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017041867, "dur":2711, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017044685, "dur":184, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1717765017044874, "dur":5847, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017051435, "dur":477, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.31f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017051432, "dur":481, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017051933, "dur":27276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717765017079341, "dur":189787, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1717765016989202, "dur":3507, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1717765016992712, "dur":389, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1717765016993102, "dur":511, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1717765016993626, "dur":5836, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1717765016999479, "dur":111, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.31f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1717765016999464, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1717765017000632, "dur":3910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1717765017004624, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1717765017004872, "dur":1642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1717765017006605, "dur":74, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.31f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1717765017006602, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1717765017006832, "dur":2125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1717765017009143, "dur":6329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717765017015580, "dur":3159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717765017018868, "dur":2730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717765017021748, "dur":2300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717765017024165, "dur":1693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717765017025914, "dur":2595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717765017028546, "dur":2323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717765017030913, "dur":1998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717765017033437, "dur":2681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717765017036315, "dur":1737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717765017038150, "dur":1984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717765017040216, "dur":1410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717765017041730, "dur":2434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717765017044324, "dur":2711, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717765017047515, "dur":2884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717765017053586, "dur":214, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1717765017050527, "dur":3306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717765017054093, "dur":199, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1717765017054302, "dur":2970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1717765017057364, "dur":2260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1717765017059645, "dur":209354, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717765016989228, "dur":3487, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717765016992717, "dur":1164, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717765016993881, "dur":5590, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717765016999481, "dur":108, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.31f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":6, "ts":1717765016999472, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1717765017000930, "dur":2898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1717765017003944, "dur":83, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.31f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1717765017003941, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1717765017004068, "dur":1532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1717765017005686, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1717765017005786, "dur":1055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1717765017006924, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1717765017008217, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717765017007341, "dur":948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1717765017008407, "dur":1593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip.exe" }}
+,{ "pid":12345, "tid":6, "ts":1717765017010072, "dur":5292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717765017016048, "dur":2686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717765017018829, "dur":1850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717765017020757, "dur":2598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717765017023454, "dur":1641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717765017025127, "dur":2511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717765017027676, "dur":2564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717765017030327, "dur":1842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717765017032269, "dur":1454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717765017033807, "dur":1790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717765017035718, "dur":3190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717765017039007, "dur":2219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717765017041376, "dur":1837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717765017043320, "dur":2597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717765017046021, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717765017046115, "dur":1554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717765017047762, "dur":2088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717765017050050, "dur":1653, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717765017051779, "dur":4339, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":6, "ts":1717765017056181, "dur":1222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":6, "ts":1717765017057444, "dur":1600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/level1" }}
+,{ "pid":12345, "tid":6, "ts":1717765017059069, "dur":1220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":6, "ts":1717765017060322, "dur":208679, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1717765016989267, "dur":3455, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1717765016992724, "dur":1169, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1717765016993893, "dur":5572, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1717765016999491, "dur":108, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.31f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1717765016999469, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1717765017001697, "dur":2136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1717765017003939, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1717765017004080, "dur":1736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1717765017006052, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1717765017006730, "dur":1179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1717765017008086, "dur":97, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.31f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1717765017008083, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1717765017008197, "dur":65, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1717765017017857, "dur":82, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1717765017008289, "dur":9668, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1717765017018095, "dur":2506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":7, "ts":1717765017020686, "dur":2330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":7, "ts":1717765017023119, "dur":1798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":7, "ts":1717765017024953, "dur":3434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1717765017028432, "dur":1790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":7, "ts":1717765017030258, "dur":2506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1717765017032876, "dur":1215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1717765017034210, "dur":1644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1717765017035999, "dur":1722, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1717765017037874, "dur":2121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1717765017040097, "dur":1796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1717765017042019, "dur":1856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1717765017043973, "dur":1551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1717765017045627, "dur":3110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1717765017048828, "dur":2814, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1717765017051769, "dur":1317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1717765017053123, "dur":3610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1717765017056814, "dur":2221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1717765017059068, "dur":1218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":7, "ts":1717765017060320, "dur":208684, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1717765016989307, "dur":3429, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1717765016992736, "dur":1134, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1717765016993871, "dur":5588, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1717765016999473, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1717765017000556, "dur":3662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/app.info" }}
+,{ "pid":12345, "tid":8, "ts":1717765017004220, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1717765017005182, "dur":1349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1717765017007160, "dur":92, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.31f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1717765017007157, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/gg/Asteroids Demo/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1717765017007644, "dur":1938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1717765017009763, "dur":57, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1717765017009826, "dur":7772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":8, "ts":1717765017017749, "dur":1601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1717765017019451, "dur":3047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1717765017022599, "dur":1858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":8, "ts":1717765017024494, "dur":2735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1717765017027266, "dur":2815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1717765017030126, "dur":1698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1717765017033244, "dur":196, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1717765017031907, "dur":1546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1717765017033597, "dur":1938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1717765017035645, "dur":2754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1717765017038594, "dur":1946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1717765017040625, "dur":2927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1717765017043659, "dur":2338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1717765017046099, "dur":2270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1717765017050951, "dur":93, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1717765017048565, "dur":2497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1717765017058641, "dur":97, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1717765017051243, "dur":7522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1717765017058944, "dur":4345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/gg/Asteroids Demo/SpaceShip_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1717765017063321, "dur":205828, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717765017295518, "dur":1706, "ph":"X", "name": "ProfilerWriteOutput" }
+,
